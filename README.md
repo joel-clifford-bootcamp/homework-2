@@ -1,5 +1,4 @@
-# homework-2
-CSS &amp; Bootstrap
+# Homework 2: CSS &amp; Bootstrap
 
 # Repo Contents
 
