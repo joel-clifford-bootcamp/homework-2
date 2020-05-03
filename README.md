@@ -5,6 +5,8 @@ CSS &amp; Bootstrap
 
 This repo contains all files necessary for a responsive webppage, consistent with the requirements listed in the Assignment Outline section of this README.
 
+To view this site, visit https://joel-clifford-bootcamp.github.io/homework-2/index.html.
+
 # Assignment Outline:
 
 ## Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
