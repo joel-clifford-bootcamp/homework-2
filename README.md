@@ -1,4 +1,4 @@
-# Homework 2: CSS &amp; Bootstrap
+# CSS &amp; Bootstrap: Responsive Porftolio
 
 # Repo Contents
 
